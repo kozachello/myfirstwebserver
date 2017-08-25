@@ -1,0 +1,17 @@
+{
+  "name": "myfirstwebserver",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/kozachello/myfirstwebserver.git"
+    }
+  ]
+}
