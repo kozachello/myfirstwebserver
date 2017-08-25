@@ -1,0 +1,20 @@
+{
+  "name": "myfirstwebserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "newserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kozachello/myfirstwebserver.git"
+  },
+  "author": "kozak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kozachello/myfirstwebserver/issues"
+  },
+  "homepage": "https://github.com/kozachello/myfirstwebserver#readme"
+}
